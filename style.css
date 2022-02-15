@@ -13,4 +13,7 @@
 }
 
 /* NAV-BAR */
+.my-navbar-li{
+    list-style: none;
+}
 
