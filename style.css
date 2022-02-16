@@ -109,3 +109,19 @@
 .my-ps4{
     width: 100%;
 }
+
+/* SECTION PS PLUS */
+.my-ps-plus-section{
+    width: 100%;
+    height: 100%;
+    background-color: lightgrey;
+}
+
+.my-psplus-logo{
+    height: 5rem;
+}
+
+.my-img-psplus{
+    width: 100%;
+    height: 100%;
+}
