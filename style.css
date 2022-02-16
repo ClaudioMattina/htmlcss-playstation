@@ -78,3 +78,24 @@
     flex-wrap: wrap;
     width: 100%;
 }
+
+/* SECONDO MAIN */
+.bg-it-take{
+    background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.my-img-it-take{
+    width: 40%;
+}
+
+/* SECOND MAIN JUMBOTRON */
+
+.my-bg-grey{
+    width: 100%;
+    height: 500px;
+    background-color: grey;
+}
