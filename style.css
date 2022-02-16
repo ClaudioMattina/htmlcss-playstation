@@ -51,3 +51,30 @@
 .my-playstation{
     width: 100%;
 }
+
+.my-joypad{
+    width: 100%;
+}
+
+.my-img-container{
+    width: calc(100% / 5);
+}
+
+@media screen and (max-width: 768px){
+    .my-img-container{
+        width: calc(100% / 4);
+    }
+    
+}
+
+@media screen and (max-width: 576px){
+    .my-img-container{
+        width: calc(100% / 3);
+    }
+    
+}
+
+.item-img-container{
+    flex-wrap: wrap;
+    width: 100%;
+}
