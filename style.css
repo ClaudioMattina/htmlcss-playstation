@@ -45,7 +45,9 @@
 
  /* MAIN */
  /* immagini e paragrafo */
-
+.my-centrature{
+    text-align: center;
+}
 .my-playstation{
     width: 100%;
 }
