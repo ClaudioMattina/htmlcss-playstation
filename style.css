@@ -17,3 +17,22 @@
     list-style: none;
 }
 
+/* JUMBOTRON */
+.jumbotron{
+    background-image: url("img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+    font-size: 1.3em;
+    padding-top: 200px;
+}
+
+.returanl-img{
+    width: 70%;
+}
+/* immagine titolo */
+/* @media screen and (max-widht: ){
+    
+}
+ */
