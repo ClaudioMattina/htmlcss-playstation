@@ -28,7 +28,7 @@
     padding-top: 200px;
 }
 
-.returanl-img{
+.my-returanl-bg{
     width: 70%;
 }
 /* immagine titolo */
@@ -36,3 +36,9 @@
     
 }
  */
+
+ /* SECTION IMMAGINI */
+ .returanl-small-img{
+     width: 100%;
+     border-radius: 10px;
+ }
