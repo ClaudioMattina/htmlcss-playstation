@@ -123,5 +123,23 @@
 
 .my-img-psplus{
     width: 100%;
-    height: 100%;
+}
+
+
+/* PLAY STATION NOW */
+.my-bg-ps-now{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(0, 0, 255, 0.904);
+}
+
+.my-btn-psn{
+    background-color: aliceblue;
+    border-radius: 50px;
+    width: 200px;
+}
+
+.my-btn-psn:hover{
+    background-color: black;
+    color: aliceblue;
 }
